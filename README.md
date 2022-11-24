@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bhanu Neelam</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🔭 I’m currently working on **web development**
 
 - 🌱 I’m currently learning **machine learning**
 
